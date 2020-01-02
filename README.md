@@ -4,13 +4,21 @@
 效果：
 
 ![QQ图片20200102180702.png](https://i.loli.net/2020/01/02/Rnq71YED2hSLgu3.png)
+
+
 登录界面
 
 ![y.png](https://i.loli.net/2020/01/02/FcGyorZM94hf8SX.png)
+
+
 主菜单
 
 ![z.png](https://i.loli.net/2020/01/02/dXbkDJRz1G35Log.png)
+
+
 查询界面
 
 ![ss.png](https://i.loli.net/2020/01/02/qSkQaUrcv7Fo8X3.png)
+
+
 入仓信息界面
