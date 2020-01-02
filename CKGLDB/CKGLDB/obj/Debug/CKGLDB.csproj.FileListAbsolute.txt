@@ -1,0 +1,14 @@
+C:\Project\CKGLDB\CKGLDB\CKGLDB\bin\Debug\CKGLDB.exe.config
+C:\Project\CKGLDB\CKGLDB\CKGLDB\bin\Debug\CKGLDB.exe
+C:\Project\CKGLDB\CKGLDB\CKGLDB\bin\Debug\CKGLDB.pdb
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.csprojAssemblyReference.cache
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.Form1.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.Properties.Resources.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.csproj.GenerateResource.cache
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.exe
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.pdb
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.menu.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.QueryHW.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.In.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.outtable.resources
+C:\Project\CKGLDB\CKGLDB\CKGLDB\obj\Debug\CKGLDB.changepwd.resources
